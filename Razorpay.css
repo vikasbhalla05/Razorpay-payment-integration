@@ -1,0 +1,17 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.jumbotron-div{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.input{
+    display: none;
+}
+
+.btn:hover .input{
+    display: block;
+}
