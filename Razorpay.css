@@ -8,10 +8,3 @@
     align-items: center;
 }
 
-.input{
-    display: none;
-}
-
-.btn:hover .input{
-    display: block;
-}
